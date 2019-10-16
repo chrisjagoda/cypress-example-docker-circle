@@ -1,4 +1,4 @@
-# cypress-example-docker-circle [![CircleCI](https://circleci.com/gh/cypress-io/cypress-example-docker-circle.svg?style=svg)](https://circleci.com/gh/cypress-io/cypress-example-docker-circle)
+# cypress-example-docker-circle [![CircleCI](https://circleci.com/gh/chrisjagoda/cypress-example-docker-circle.svg?style=svg)](https://circleci.com/gh/chrisjagoda/cypress-example-docker-circle)
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/cypress-io/cypress-example-docker-circle.svg)](https://greenkeeper.io/)
 
@@ -12,7 +12,7 @@ dependencies pre-installed.
 
 Then check out the code and call `cypress run` command. That is it!
 See test runs for this example at
-[circleci.com](https://circleci.com/gh/cypress-io/cypress-example-docker-circle)
+[circleci.com](https://circleci.com/gh/chrisjagoda/cypress-example-docker-circle)
 
 <img src="screenshots/circle.png" height="500" />
 
@@ -71,7 +71,7 @@ it('has h2', () => {
 ```
 
 See the failed CI test run at
-[https://circleci.com/gh/cypress-io/cypress-example-docker-circle/10](https://circleci.com/gh/cypress-io/cypress-example-docker-circle/10).
+[https://circleci.com/gh/chrisjagoda/cypress-example-docker-circle/10](https://circleci.com/gh/chrisjagoda/cypress-example-docker-circle/10).
 
 The CircleCI test summary shows failed test and user-friendly message.
 
